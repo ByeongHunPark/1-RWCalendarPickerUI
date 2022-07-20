@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "calendarcontrol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ByeongHunPark/CalendarControl",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0e64618effbc621f3532ceaf4392ffc302638022"
+      }
+    }
+  ],
+  "version" : 2
+}
